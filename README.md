@@ -8,13 +8,13 @@
 - 📫 How to reach me **somyevirmani4@gmail.com**
 
 - ⚡ Fun fact **I like playing bullet chess ♟️**
-<br>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/somyevirmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somyevirmani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/somye_v01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somye_v01" height="30" width="40" /></a>
 </p>
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
